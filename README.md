@@ -1,7 +1,8 @@
 # Accident Data Analysis and Visualization Project
 
-![Dashboard Screenshot](#)
-*(Replace this placeholder with an image of the Power BI dashboard)*
+![![Uploading Screenshot 2024-11-27 153906.png…]()
+](#)
+*()*
 
 ## Project Overview
 This project focuses on analyzing and visualizing accident data to derive meaningful insights. The workflow involved data cleaning, statistical analysis, and advanced visualizations using Python and Power BI.
@@ -72,6 +73,7 @@ This project focuses on analyzing and visualizing accident data to derive meanin
    - The `.pbix` file with all visualizations.
 3. **Dashboard Screenshot**:
    - A snapshot of the final dashboard for reference.
+4. **Dataset Csv file**:
 
 ---
 
@@ -82,12 +84,3 @@ This project focuses on analyzing and visualizing accident data to derive meanin
 
 ---
 
-## Getting Started
-1. Clone the repository.
-2. Use Python scripts to clean and prepare the data.
-3. Open the Power BI file to explore the dashboard.
-
----
-
-## License
-This project is licensed under the MIT License.

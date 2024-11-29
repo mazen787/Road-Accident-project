@@ -1,9 +1,7 @@
 # Accident Data Analysis and Visualization Project
 
-![![Uploading Screenshot 2024-11-27 153906.png…]()
-](#)
-*(![Uploading Screenshot 2024-11-27 153906.png…]()
-)*
+![Screenshot 2024-11-27 153906](https://github.com/user-attachments/assets/94f8b560-9b3c-41a8-8b7d-10df6b920efb)
+
 
 ## Project Overview
 This project focuses on analyzing and visualizing accident data to derive meaningful insights. The workflow involved data cleaning, statistical analysis, and advanced visualizations using Python and Power BI.
